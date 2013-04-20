@@ -29,4 +29,4 @@ You must bring your own laptop and it must have a USB connector. It can be a PC,
 
 The day will be hosted by the Atrium Studios in Ipswich, members of the studio and students are eligible for a discounted ticket.
 
-Atrium Studios is marked "O Block" on the map below. Local parking is available. The building is accessible for wheelchairs. The venue is approximately a fifteen minute walk from the town centre and reachable from the train and bus stations on foot.
+Local parking is available. The building is accessible for wheelchairs. The venue is approximately a fifteen minute walk from the town centre and reachable from the train and bus stations on foot.
