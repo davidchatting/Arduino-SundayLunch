@@ -1,0 +1,21 @@
+David Chatting - david@davidchatting.com
+Arduino and Sunday Lunch - 21st April 2013
+---
+Arduino Leonardo - http://www.coolcomponents.co.uk/catalog/arduino-leonardo-with-headers-p-1003.html
+---
+Micro USB lead - http://stores.ebay.co.uk/babzmedia/
+---
+Breadboard - http://stores.ebay.co.uk/phenoptix
+---
+Servo - Turnigy TG9e 9g / 1.5kg .0.10sec Micro Servo (5V) - http://stores.ebay.co.uk/nilesinstall-RC
+---
+Rapid Electronics - https://www.rapidonline.com
+-
+78-0623	 Tact Swit 6x6mm Height 7.3mm Sq 2.4mm 
+55-0107	 Kingbright L-7104PGD 3mm Pure Green LED 5mcd 
+55-0102	 Kingbright L-7104HD 3mm Red LED 3mcd 
+58-0134	 Light Dependent Photoresistor 
+62-0418	 100k Cr25 0.25w Cf Resistor - Pack of 100 
+62-0354	 220r Cr25 0.25w Cf Resistor - Pack of 100 
+65-0730	 100K 16mm Linear Potentiometer
+---
